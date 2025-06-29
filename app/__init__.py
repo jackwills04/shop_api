@@ -1,1 +1,1 @@
-# Initialize the app package
+# This file can be empty

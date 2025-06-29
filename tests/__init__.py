@@ -1,1 +1,1 @@
-# Initialize tests package
+# This file can be empty
